@@ -1,0 +1,15 @@
+<map id="FixedJoint.h" name="FixedJoint.h">
+<area shape="rect" id="node2" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="825,80,1020,107"/>
+<area shape="rect" id="node27" href="$Indices_8h.html" title="iDynTree/Model/Indices.h" alt="" coords="1160,155,1344,181"/>
+<area shape="rect" id="node29" href="$IJoint_8h.html" title="iDynTree/Model/IJoint.h" alt="" coords="1044,80,1215,107"/>
+<area shape="rect" id="node3" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="833,155,1015,181"/>
+<area shape="rect" id="node21" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="623,229,806,256"/>
+<area shape="rect" id="node24" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="243,379,458,405"/>
+<area shape="rect" id="node4" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="823,304,1031,331"/>
+<area shape="rect" id="node5" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="482,379,697,405"/>
+<area shape="rect" id="node6" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="345,528,503,555"/>
+<area shape="rect" id="node9" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="575,528,737,555"/>
+<area shape="rect" id="node22" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="245,304,462,331"/>
+<area shape="rect" id="node23" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="537,304,748,331"/>
+<area shape="rect" id="node25" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="185,453,386,480"/>
+</map>

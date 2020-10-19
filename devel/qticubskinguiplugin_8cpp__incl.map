@@ -1,0 +1,23 @@
+<map id="qticubskinguiplugin.cpp" name="qticubskinguiplugin.cpp">
+<area shape="rect" id="node2" href="$qticubskinguiplugin_8h.html" title="qticubskinguiplugin.h" alt="" coords="1402,80,1563,107"/>
+<area shape="rect" id="node7" href="$ObserverThread_8h.html" title="include/ObserverThread.h" alt="" coords="1669,155,1859,181"/>
+<area shape="rect" id="node17" href="$Direction_8h.html" title="iDynTree/Core/Direction.h" alt="" coords="995,543,1183,569"/>
+<area shape="rect" id="node33" href="$ConvexHullHelpers_8h.html" title="iDynTree/ConvexHullHelpers.h" alt="" coords="270,311,490,338"/>
+<area shape="rect" id="node42" href="$KinDynComputations_8h.html" title="iDynTree/KinDynComputations.h" alt="" coords="1219,229,1453,256"/>
+<area shape="rect" id="node18" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="975,617,1190,644"/>
+<area shape="rect" id="node19" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1653,692,1811,719"/>
+<area shape="rect" id="node22" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="1467,692,1629,719"/>
+<area shape="rect" id="node34" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="1269,393,1491,420"/>
+<area shape="rect" id="node36" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="289,468,471,495"/>
+<area shape="rect" id="node39" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="283,393,477,420"/>
+<area shape="rect" id="node41" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="678,617,901,644"/>
+<area shape="rect" id="node35" href="$MatrixView_8h.html" title="iDynTree/Core/MatrixView.h" alt="" coords="1469,617,1670,644"/>
+<area shape="rect" id="node37" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="333,543,541,569"/>
+<area shape="rect" id="node38" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="566,543,749,569"/>
+<area shape="rect" id="node40" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1267,543,1482,569"/>
+<area shape="rect" id="node43" href="$Indices_8h.html" title="iDynTree/Model/Indices.h" alt="" coords="960,393,1144,420"/>
+<area shape="rect" id="node45" href="$FreeFloatingMatrices_8h.html" title="iDynTree/Model/FreeFloating\lMatrices.h" alt="" coords="1269,304,1475,345"/>
+<area shape="rect" id="node46" href="$LinkState_8h.html" title="iDynTree/Model/LinkState.h" alt="" coords="635,311,834,338"/>
+<area shape="rect" id="node47" href="$Twist_8h.html" title="iDynTree/Core/Twist.h" alt="" coords="552,393,715,420"/>
+<area shape="rect" id="node48" href="$SpatialAcc_8h.html" title="iDynTree/Core/SpatialAcc.h" alt="" coords="739,393,936,420"/>
+</map>

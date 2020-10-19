@@ -1,0 +1,20 @@
+<map id="GeometryElement.cpp" name="GeometryElement.cpp">
+<area shape="rect" id="node2" href="$GeometryElement_8h.html" title="GeometryElement.h" alt="" coords="271,80,424,107"/>
+<area shape="rect" id="node9" href="$URDFParsingUtils_8h.html" title="URDFParsingUtils.h" alt="" coords="1398,80,1545,107"/>
+<area shape="rect" id="node17" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1575,528,1733,555"/>
+<area shape="rect" id="node37" href="$XMLAttribute_8h.html" title="iDynTree/XMLAttribute.h" alt="" coords="417,379,595,405"/>
+<area shape="rect" id="node38" href="$SolidShapes_8h.html" title="iDynTree/Model/SolidShapes.h" alt="" coords="583,80,800,107"/>
+<area shape="rect" id="node3" href="$XMLElement_8h.html" title="iDynTree/XMLElement.h" alt="" coords="235,155,411,181"/>
+<area shape="rect" id="node13" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="1114,155,1309,181"/>
+<area shape="rect" id="node16" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1971,453,2185,480"/>
+<area shape="rect" id="node14" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="993,229,1174,256"/>
+<area shape="rect" id="node30" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1249,304,1432,331"/>
+<area shape="rect" id="node32" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1732,453,1947,480"/>
+<area shape="rect" id="node35" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="1017,453,1280,480"/>
+<area shape="rect" id="node15" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="966,379,1174,405"/>
+<area shape="rect" id="node29" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="813,304,1063,331"/>
+<area shape="rect" id="node19" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="2153,528,2315,555"/>
+<area shape="rect" id="node31" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1299,379,1510,405"/>
+<area shape="rect" id="node34" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="1305,453,1555,480"/>
+<area shape="rect" id="node39" href="$Indices_8h.html" title="iDynTree/Model/Indices.h" alt="" coords="555,304,739,331"/>
+</map>
